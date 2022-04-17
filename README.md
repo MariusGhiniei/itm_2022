@@ -1,6 +1,6 @@
 # itm_2022_fb
 
-A new Flutter project.
+[Zuzu] Ghiniei Marius - Iulian
 
 ## Getting Started
 
